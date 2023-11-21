@@ -2168,6 +2168,7 @@
       <change beforePath="$PROJECT_DIR$/../landing.upkeep/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../landing.upkeep/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../landing.upkeep/styles/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../landing.upkeep/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../makets/Untitled.fig" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../makets/gidroMagazin.fig" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../mesto" beforeDir="false" afterPath="$PROJECT_DIR$/../mesto" afterDir="false" />
@@ -5162,7 +5163,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -5177,7 +5178,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/li4nost/dev/welbex.landing&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/li4nost/dev/landing.welbex&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -5197,6 +5198,8 @@
       <workItem from="1700542806415" duration="19669000" />
       <workItem from="1700573239030" duration="1510000" />
       <workItem from="1700575305938" duration="49000" />
+      <workItem from="1700575853720" duration="668000" />
+      <workItem from="1700582210629" duration="63000" />
     </task>
     <servers />
   </component>
